@@ -82,3 +82,5 @@ print() 함수를 사용하여 다음과 같이 출력하세요.
 [Default Button](#){: .btn.btn--primary }
 
 <button type="button" class="btn btn-primary" href="#">Primary</button>
+
+<button name="button" onclick="http://www.google.com">Click me</button>
