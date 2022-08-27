@@ -4,7 +4,7 @@
 1. 백준 - [사분면 고르기](https://www.acmicpc.net/problem/14681) (14681)
 2. 백준 - [알람 시계](https://www.acmicpc.net/problem/2884) (2884)
 3. 백준 - [구구단](https://www.acmicpc.net/problem/2739) (2739)
-4. 백준 - [A+B-3](https://www.acmicpc.net/problem/10950) (10950)
+4. 백준 - [합](https://www.acmicpc.net/problem/8393) (8393)
 
 ---
 
