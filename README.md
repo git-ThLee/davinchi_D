@@ -1,8 +1,8 @@
 # Python_300_for_beginners only qustion
 
-# 숙제 9월 3일
-1. 백준 - [별 찍기 - 1](https://www.acmicpc.net/problem/2438)(2438)
-2. 백준 - [별 찍기 - 2](https://www.acmicpc.net/problem/2439)(2439)
+# 숙제 9월 17일
+1. 백준 - [주사위 세개](https://www.acmicpc.net/problem/2439)(2439)
+2. 백준 - [모음의 개수](https://www.acmicpc.net/problem/1264)(1264)
 3. 백준 - [영수증](https://www.acmicpc.net/problem/25304)(25304) 
 4. 백준 - [최소, 최대](https://www.acmicpc.net/problem/10818)(10818)
 5. 백준 - [최댓값](https://www.acmicpc.net/problem/2562)(2562)
@@ -58,6 +58,14 @@
 ----------------------------------------
 
 # 숙제 기록
+- 숙제 9월 3일
+  1. 백준 - [별 찍기 - 1](https://www.acmicpc.net/problem/2438)(2438)
+  2. 백준 - [별 찍기 - 2](https://www.acmicpc.net/problem/2439)(2439)
+  3. 백준 - [영수증](https://www.acmicpc.net/problem/25304)(25304) 
+  4. 백준 - [최소, 최대](https://www.acmicpc.net/problem/10818)(10818)
+  5. 백준 - [최댓값](https://www.acmicpc.net/problem/2562)(2562)
+  6. 백준 - [나머지](https://www.acmicpc.net/problem/3052)(3052)
+  7. 백준 - [숫자의 합](https://www.acmicpc.net/problem/11720)(11720)
 - 숙제 8월 27일
   1. 백준 - [사분면 고르기](https://www.acmicpc.net/problem/14681) (14681)
   2. 백준 - [알람 시계](https://www.acmicpc.net/problem/2884) (2884)
