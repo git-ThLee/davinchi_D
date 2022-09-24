@@ -1,7 +1,7 @@
 # Python_300_for_beginners only qustion
 
 # 숙제 9월 17일
-1. 백준 - [주사위 세개](https://www.acmicpc.net/problem/2439)(2439)
+1. 백준 - [주사위 세개](https://www.acmicpc.net/problem/2480)(2480)
 2. 백준 - [모음의 개수](https://www.acmicpc.net/problem/1264)(1264)
 3. 백준 - [영수증](https://www.acmicpc.net/problem/25304)(25304) 
 4. 백준 - [최소, 최대](https://www.acmicpc.net/problem/10818)(10818)
