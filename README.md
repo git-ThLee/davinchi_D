@@ -55,7 +55,12 @@
 ----------------------------------------
 
 # 숙제 기록
-- # 숙제 9월 24일
+- 숙제 10월 1일
+ 1. 딕셔너리.ipynb 복습하기
+ 2. 딕셔너리ipynb 맨 아래에 있는 링크 들어가서 문제 풀어오기
+  - [문제링크1](https://wikidocs.net/30109)
+  - [문제링크2](https://wikidocs.net/32200)
+- 숙제 9월 24일
   1. 백준 - [주사위 세개](https://www.acmicpc.net/problem/2480)(2480)
   2. 백준 - [모음의 개수](https://www.acmicpc.net/problem/1264)(1264)
   3. 백준 - [영수증](https://www.acmicpc.net/problem/25304)(25304) 
