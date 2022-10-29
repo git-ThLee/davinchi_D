@@ -1,10 +1,10 @@
 # Python_300_for_beginners only qustion
 
-# 숙제 10월 1일
-1. 딕셔너리.ipynb 복습하기
-2. 딕셔너리ipynb 맨 아래에 있는 링크 들어가서 문제 풀어오기
- - [문제링크1](https://wikidocs.net/30109)
- - [문제링크2](https://wikidocs.net/32200)
+# 숙제 10월 29일
+ - 숙제
+   - [11720_숫자의 합](https://www.acmicpc.net/problem/11720)
+   - [1152_단어의 개수](https://www.acmicpc.net/problem/1152)
+
  
 ---
 
@@ -55,6 +55,12 @@
 ----------------------------------------
 
 # 숙제 기록
+- 숙제 10월 1일
+1. 딕셔너리.ipynb 복습하기
+2. 딕셔너리ipynb 맨 아래에 있는 링크 들어가서 문제 풀어오기
+ - [문제링크1](https://wikidocs.net/30109)
+ - [문제링크2](https://wikidocs.net/32200)
+ 
 - 숙제 10월 1일
  1. 딕셔너리.ipynb 복습하기
  2. 딕셔너리ipynb 맨 아래에 있는 링크 들어가서 문제 풀어오기
