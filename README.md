@@ -1,6 +1,6 @@
 # Python_300_for_beginners only qustion
 
-# 숙제 11월 05일(오후)
+# 숙제 11월 12일(오후)
 - 숙제
   - [2869_달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
   - [2563_색종이](https://www.acmicpc.net/problem/2563)
