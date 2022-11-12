@@ -2,7 +2,6 @@
 
 # 숙제 11월 05일(오후)
 - 숙제
-  - [2765_문자열 반복](https://www.acmicpc.net/problem/2675)
   - [2869_달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
   - [2563_색종이](https://www.acmicpc.net/problem/2563)
   - [2562_최댓값](https://www.acmicpc.net/problem/2562)
@@ -47,6 +46,10 @@
 
 
 # 숙제 기록
+ - 숙제 11월 05일(오후)
+  - [2869_달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)
+  - [2563_색종이](https://www.acmicpc.net/problem/2563)
+  - [2562_최댓값](https://www.acmicpc.net/problem/2562)
 - 숙제 10월 29일
    - [11720_숫자의 합](https://www.acmicpc.net/problem/11720)
    - [1152_단어의 개수](https://www.acmicpc.net/problem/1152)
