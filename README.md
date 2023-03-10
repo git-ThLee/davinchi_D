@@ -2,6 +2,8 @@
  
 ---
 
+https://wikidocs.net/1074
+
 
 
 # 문제 번호  
