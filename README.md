@@ -2,6 +2,9 @@
 
 [링크](https://app.gather.town/invite?token=9neIPkzfTVuyzyLtiU4X)
 
+![image](https://github.com/git-ThLee/davinchi_D/assets/55564114/ff6c335a-2be3-40b1-a537-6ce132dd8c06)
+
+
 
 # Python_300_for_beginners only qustion
 
