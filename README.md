@@ -1,6 +1,5 @@
-# 게더타운 링크
+# 게더타운을 활용한 모니터링
 
-[링크](https://app.gather.town/invite?token=9neIPkzfTVuyzyLtiU4X)
 
 ![image](https://github.com/git-ThLee/davinchi_D/assets/55564114/ff6c335a-2be3-40b1-a537-6ce132dd8c06)
 
